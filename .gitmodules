@@ -1,0 +1,3 @@
+[submodule "RubyRails"]
+	path = RubyRails
+	url = git://github.com/marsluong/RubyRails.git
